@@ -1,8 +1,6 @@
 ### Welcome to my personal project account
 This page is a collection of projects I have/am working on as I learn more about programming/stats/data analysis. 
-My goals with this page is to host projects I have and showcase some of the efforts I have put into learning data focused programming and to hopefully update some projects 
-as I get more data or improve in my analysis skills. My current goals are to learn more statistics in university classes I am taking, and to become more proficient at all things
-R programming and maybe learn some more advanced SQL through completing projects.
+My goals with this page is to host projects I have done in case anyone wants to view them.
 <!--
 **pletkas/pletkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
